@@ -1,18 +1,5 @@
 # 🎁 Aplicación "Amigo Secreto"
 
-
-## 📑 Índice
-1. [Descripción del Proyecto](#-descripción-del-proyecto)  
-2. [Estado del Proyecto](#-estado-del-proyecto)  
-3. [Demostración de Funciones y Aplicaciones](#-demostración-de-funciones-y-aplicaciones)  
-4. [Acceso al Proyecto](#-acceso-al-proyecto)  
-5. [Tecnologías Utilizadas](#-tecnologías-utilizadas)  
-6. [Personas Contribuyentes](#-personas-contribuyentes)  
-7. [Personas Desarrolladoras del Proyecto](#-personas-desarrolladoras-del-proyecto)  
-8. [Licencia](#-licencia)  
-
----
-
 ## 📖 Descripción del Proyecto
 Este proyecto es una aplicación web sencilla e interactiva que permite organizar un sorteo de **Amigo Secreto**.  
 
@@ -23,8 +10,14 @@ Este proyecto es una aplicación web sencilla e interactiva que permite organiza
 - 🎲 **Sortear amigo**: Un botón selecciona un nombre al azar de la lista y lo muestra en pantalla.  
 
 
+## 🛠️ Tecnologías Utilizadas
+- **HTML5** → Estructura de la aplicación.  
+- **CSS3** → Estilos y diseño visual.  
+- **JavaScript (ES6)** → Lógica, validación de datos y sorteo aleatorio.  
+
+
 ## 📌 Estado del Proyecto
-🚧 **Completado** – La versión acutual cumple con la funcionalidad básica del sorteo.  
+✔️ **Completado** – La versión acutual cumple con la funcionalidad básica del sorteo.  
 
 ## 🎥 Demostración de Funciones y Aplicaciones
 👉 Aquí un ejemplo del flujo de la aplicación:  
