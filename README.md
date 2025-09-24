@@ -22,7 +22,6 @@ Este proyecto es una aplicación web sencilla e interactiva que permite organiza
 - 📋 **Visualizar lista**: Los nombres ingresados se muestran en pantalla.  
 - 🎲 **Sortear amigo**: Un botón selecciona un nombre al azar de la lista y lo muestra en pantalla.  
 
----
 
 ## 📌 Estado del Proyecto
 🚧 **Completado** – La versión acutual cumple con la funcionalidad básica del sorteo.  
@@ -34,11 +33,18 @@ Este proyecto es una aplicación web sencilla e interactiva que permite organiza
 2. Clic en **Añadir** → el nombre aparece en la lista.  
 3. Al presionar **Sortear Amigo**, se elige aleatoriamente un nombre.  
 
-*(Puedes incluir aquí un GIF o captura de pantalla de la aplicación en acción)*
-
----
-
 ## 🔑 Acceso al Proyecto
 ### Clonar repositorio
 ```bash
 https://github.com/ItzelLori/Challenge-Amigo-Secreto.git
+```
+Abre el proyecto en tu equipo
+Localiza la carpeta descargada y abre el archivo index.html con tu navegador favorito (Chrome, Edge, Firefox, etc.).
+
+Agrega participantes
+Escribe el nombre de cada amigo en el campo de texto y presiona el botón "Añadir". Verás cómo se forma la lista automáticamente.
+
+Realiza el sorteo
+Una vez que todos los nombres estén en la lista, haz clic en "Sortear Amigo" y se mostrará en pantalla el nombre elegido de forma aleatoria.
+
+✨ ¡Listo! Ya puedes organizar tu sorteo de amigo secreto sin complicaciones.
