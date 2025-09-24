@@ -1,15 +1,5 @@
 # 🎁 Aplicación "Amigo Secreto"
 
-![Portada del Proyecto](https://img.freepik.com/vector-gratis/concepto-amigos-ilustrado_23-2148513946.jpg)  
-
----
-
-## 🏅 Insignias
-![Estado](https://img.shields.io/badge/Estado-En%20desarrollo-yellow)  
-![Lenguaje](https://img.shields.io/badge/Lenguaje-JavaScript-blue)  
-![Licencia](https://img.shields.io/badge/Licencia-MIT-green)  
-
----
 
 ## 📑 Índice
 1. [Descripción del Proyecto](#-descripción-del-proyecto)  
@@ -35,19 +25,13 @@ Este proyecto es una aplicación web sencilla e interactiva que permite organiza
 ---
 
 ## 📌 Estado del Proyecto
-🚧 **En desarrollo** – La versión actual cumple con la funcionalidad básica del sorteo.  
-📌 Posibles mejoras futuras:  
-- Guardar la lista en el almacenamiento local.  
-- Agregar animaciones en la selección.  
-- Personalizar estilos con CSS avanzado.  
-
----
+🚧 **Completado** – La versión acutual cumple con la funcionalidad básica del sorteo.  
 
 ## 🎥 Demostración de Funciones y Aplicaciones
 👉 Aquí un ejemplo del flujo de la aplicación:  
 
 1. El usuario ingresa un nombre en el campo de texto.  
-2. Clic en **Adicionar** → el nombre aparece en la lista.  
+2. Clic en **Añadir** → el nombre aparece en la lista.  
 3. Al presionar **Sortear Amigo**, se elige aleatoriamente un nombre.  
 
 *(Puedes incluir aquí un GIF o captura de pantalla de la aplicación en acción)*
@@ -57,4 +41,3 @@ Este proyecto es una aplicación web sencilla e interactiva que permite organiza
 ## 🔑 Acceso al Proyecto
 ### Clonar repositorio
 ```bash
-git clone https://github.com/tu-usuario/amigo-secreto.git
